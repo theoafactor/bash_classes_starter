@@ -1,0 +1,13 @@
+## Naming Convention
+## 1.  plain naming convention
+## e.g. username = "James"
+# --> USERNAME="James"
+
+## 2. camelCasing convention
+## e.g. userName = "James"
+
+## 3. PascalCasing convention
+## e.g. UserName = "James"
+
+## 4. SnakeCasing convention
+## e.g. user_name = "James"
